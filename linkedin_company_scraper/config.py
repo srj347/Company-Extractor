@@ -23,9 +23,7 @@ load_dotenv(PROJECT_ROOT / ".env")
 
 # The faceted company-search URL provided for this POC (HQ-geo filtered).
 DEFAULT_SEARCH_URL = (
-    "https://www.linkedin.com/search/results/companies/"
-    "?origin=FACETED_SEARCH&spellCorrectionEnabled=true"
-    "&companyHqGeo=%5B%2290009642%22%2C%22103671728%22%5D&page=1"
+    "https://www.linkedin.com/search/results/companies/?origin=FACETED_SEARCH&spellCorrectionEnabled=true&companyHqGeo=%5B%22105214831%22%2C%2290009633%22%5D&page=1"
 )
 
 

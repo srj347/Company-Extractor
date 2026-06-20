@@ -12,5 +12,9 @@ profile/
 
 # Run artifacts
 companies.xlsx
+companies.legacy*.xlsx
 checkpoint.json
 screenshots/
+
+# LLM normalization cache
+.normalization_cache/
